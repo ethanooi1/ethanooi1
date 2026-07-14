@@ -1,6 +1,6 @@
 ## Ethan Ooi
 
-I'm a third-year student at the University of Virginia, majoring in Data Science. Concentrations in Analytics and Systems.
+Hi! I'm a third-year student at the University of Virginia, majoring in Data Science. Concentrations in Analytics and Systems.
 
 ### Projects
 
